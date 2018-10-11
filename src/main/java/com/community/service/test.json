@@ -1,0 +1,36 @@
+[{
+  "ip": "124.124.236.34",
+  "city": "Ernakulam",
+  "region": "Kerala",
+  "country": "IN",
+  "loc": "7.9833,76.2833",
+  "postal": "982011",
+  "org": "AS18101 Gogo Communication Ltd 20060606"
+},
+{
+  "ip": "124.124.236.34",
+  "city": "chennai",
+  "region": "tamilnadu",
+  "country": "IN",
+  "loc": "5.9833,76.2833",
+  "postal": "882011",
+  "org": "AS18101 Reliance Communication Ltd 20060606"
+},
+{
+  "ip": "124.124.236.34",
+  "city": "hyderabad",
+  "region": "telangana",
+  "country": "IN",
+  "loc": "2.9833,76.2833",
+  "postal": "482011",
+  "org": "AS18101 vodafone Communication Ltd 20060606"
+},{
+  "ip": "124.124.236.34",
+  "city": "noida",
+  "region": "uttarpradesh",
+  "country": "IN",
+  "loc": "3.9833,76.2833",
+  "postal": "282011",
+  "org": "AS18101 idea Communication Ltd 20060606"
+}
+]
